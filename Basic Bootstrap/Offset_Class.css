@@ -1,0 +1,13 @@
+.container{
+    background: lightpink;
+    border: 2px solid black;
+    margin: 20px auto;
+}
+.row{
+    border: 1px dotted blue;
+}
+.col-lg-3,.col-lg-4{
+    background-color: rgb(3, 3, 3);
+    color: aliceblue;
+    border: 1px solid brown;
+}
